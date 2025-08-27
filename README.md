@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-kumar-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-kumar-rajak" /> </p>
 
-- 🌱 I’m currently learning **Node.js , React**
+- 🌱 I’m currently learning **Node.js , ExpressJs, MongoDB, DeepLearning**
 
 - 📫 How to reach me **pkpawanrajak@gmail.com**
 
